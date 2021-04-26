@@ -10,7 +10,7 @@ module.exports = {
 		base: './',
 		subSidebar: 'auto',	
 		noFoundPageByTencent: false,
-		authorAvatar: 'your_image_url',		// 作者头像
+		authorAvatar: '头像图片地址',		// 作者头像
 		valineConfig: {						// 留言板服务器id配置
 			appId: 'your_Id',
 			appKey: 'your_key', 
